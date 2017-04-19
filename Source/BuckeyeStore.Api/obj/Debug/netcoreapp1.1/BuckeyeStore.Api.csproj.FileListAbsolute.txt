@@ -1,0 +1,10 @@
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.deps.json
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.runtimeconfig.json
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.runtimeconfig.dev.json
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.AssemblyInfo.cs
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.pdb
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Source/BuckeyeStore.Api/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.pdb

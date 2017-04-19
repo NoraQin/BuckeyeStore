@@ -1,0 +1,15 @@
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/xunit.runner.utility.netstandard15.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/xunit.runner.reporters.netstandard15.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.deps.json
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.runtimeconfig.json
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.runtimeconfig.dev.json
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.pdb
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.AssemblyInfo.cs
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/obj/Debug/netcoreapp1.1/BuckeyeStore.Api.Tests.pdb
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.dll
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Core.pdb
+/Users/noraqin/AMIS/Lab9/BuckeyeStore/Tests/BuckeyeStore.Api.Tests/bin/Debug/netcoreapp1.1/BuckeyeStore.Api.pdb
